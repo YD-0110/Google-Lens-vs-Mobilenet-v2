@@ -1,0 +1,21 @@
+
+#red{
+    color: red;
+}
+
+body{
+    font-family: 'Poor Story', cursive;
+    letter-spacing: 4px;
+}
+
+img{
+    border-radius: 40px;
+}
+
+div{
+    background-color: rgb(92, 88, 88);
+    padding: 10px;
+    border-radius: 80px;
+    color: white;
+    box-shadow: 5px 5px 5px lightgray;
+}
